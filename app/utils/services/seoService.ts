@@ -6,7 +6,7 @@ export async function getSeoMetaTags(request?: Request): Promise<MetaTagsDto> {
 }
 
 async function getSeoMetaTagsFromPathname(pathname: string) {
-  const title = "Remix Page Blocks";
+  const title = "AuroraSilicon";
   const description = "A collection of functional Remix and Tailwind CSS page blocks.";
   const keywords = "remix,saas,tailwindcss,react,typescript,boilerplate,saas-kit,saas-boilerplate";
   const image = "https://yahooder.sirv.com/remixblocks/page-blocks/cover.png";

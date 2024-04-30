@@ -46,9 +46,9 @@
       }
     },
     "hero": {
-      "headline": "Remix Page Blocks",
-      "subheadline": "A collection of functional blocks: Header, Footer, Hero, Banner, Features, Logo Clouds, Community, Embeded Video, Testimonials, FAQ, Contact, Newsletter, and more.",
-      "topText": "Remix 2.3.1 ✨ Tailwind CSS 3.3.5 💅 DaisyUI 2.42.1",
+      "headline": "AuroraSilicon",
+      "subheadline": "A team of passionate individuals with an average age of 22. We aim to build awesome AI products that can change the world.",
+      "topText": "Open Source ✨ AI Product 💅 Tutorials",
       "cta": {
         "primary": "View on Github",
         "secondary": "Built by SaasRock"
